@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\play.o
+./debug\player.o
+./debug\config.o
+./debug\qextserialport.o
+./debug\qextserialenumerator.o
+./debug\qextserialport_win.o
+./debug\qextserialenumerator_win.o
+./debug\qrc_imagenes.o
+./debug\qrc_sound.o
+./debug\moc_mainwindow.o
+./debug\moc_play.o
+./debug\moc_player.o
+./debug\moc_config.o
+);

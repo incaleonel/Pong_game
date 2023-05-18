@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>sounds/Cuek.mp3</file>
+        <file>sounds/rebote.wav</file>
+        <file>sounds/fondo.mp3</file>
+    </qresource>
+</RCC>
